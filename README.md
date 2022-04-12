@@ -1,2 +1,5 @@
 # Tic-Tac-Toe-Bot
-An unbeatable tic-tac-toe bot, also works as move predictor
+___
+An unbeatable bot which outputs best possible move in Tic-Tac-Toe.
+<br>
+Made in Python
